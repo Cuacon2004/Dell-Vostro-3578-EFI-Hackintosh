@@ -1,5 +1,5 @@
 Dell Vostro 3578 (macOS Ventura 13.7.7)
-
+Original sources: https://github.com/winofwin292/hackintosh-dell-vostro-3578
 OpenCore v1.0.6
 
 Specs:
