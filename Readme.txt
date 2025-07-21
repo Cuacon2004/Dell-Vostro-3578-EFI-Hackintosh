@@ -32,5 +32,6 @@ Things to do after installed macOS:
     - Put EFI Folder to EFS Partition by using Opencore Configuration or OCAT
     - Re-generate SMBIOS: Serial Number, SMUUID, Board-ID and Broad Serial Number
     - Upgrade your Wifi card from DW1810 or Intel 3165 to Intel AX200 or AX210 "DW1810 does not work,  you must replace your wifi card"
+    - Put Airportitlm.kext into EFI -> OC -> Kexts
     - If your laptop has dGPU you must disable it
     - Remove -v boot-args if you don't want verbose mode while booting
